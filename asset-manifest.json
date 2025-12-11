@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pwa-cashback-tracker/static/css/main.d13cbd26.css",
+    "main.js": "/pwa-cashback-tracker/static/js/main.34e6172d.js",
+    "static/js/453.f1a4bd11.chunk.js": "/pwa-cashback-tracker/static/js/453.f1a4bd11.chunk.js",
+    "index.html": "/pwa-cashback-tracker/index.html",
+    "main.d13cbd26.css.map": "/pwa-cashback-tracker/static/css/main.d13cbd26.css.map",
+    "main.34e6172d.js.map": "/pwa-cashback-tracker/static/js/main.34e6172d.js.map",
+    "453.f1a4bd11.chunk.js.map": "/pwa-cashback-tracker/static/js/453.f1a4bd11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d13cbd26.css",
+    "static/js/main.34e6172d.js"
+  ]
+}
